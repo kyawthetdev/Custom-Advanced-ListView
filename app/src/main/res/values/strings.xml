@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Advanced List View</string>
+    <string name="textviewone">TextViewOne</string>
+    <string name="_3">3</string>
+    <string-array name="names">
+        <item>Bear</item>
+        <item>Bird</item>
+        <item>Dog</item>
+        <item>Fish</item>
+        <item>Fox</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+        <item>tiger</item>
+    </string-array>
+    <string-array name="names_icon">
+        <item>@drawable/bear</item>
+        <item>@drawable/bird</item>
+        <item>@drawable/dog</item>
+        <item>@drawable/fish</item>
+        <item>@drawable/fox</item>
+        <item>@drawable/lion</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/tiger</item>
+    </string-array>
+</resources>
